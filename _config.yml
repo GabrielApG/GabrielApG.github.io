@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://gabrielapg.github.io
+resume-url: https://gabrielapg.github.io/curriculo
 
 url: https://gabrielapg.github.io
 # your url: http://USERNAME.github.io
@@ -59,7 +59,7 @@ authors:
         external-image: false
         picture: assets/images/profile.jpg
         twitter: https://github.com/GabrielApG/
-    
+
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
