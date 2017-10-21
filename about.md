@@ -14,6 +14,7 @@ Experiência em desenvolvimento de aplicações desktops Java.</p>
 <ul class="skill-list">
     <li>Boa Lógica de Programação</li>
 	<li>PHP (Laravel 5, Symfony 2, CakePhp )</li>
+	<li>Java (JavaSE, Swing)</li>
 	<li>JavaScript</li>
 	<li>Css Frameworks (Bootstrap, Foundation)</li>
 	<li>Postgres, Mysql, Oracle Sql, Ibm DB2</li>
