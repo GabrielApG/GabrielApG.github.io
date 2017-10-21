@@ -36,20 +36,20 @@ Experiência em desenvolvimento de aplicações desktops Java.</p>
 <p>Padrões recomendados de segurança para desenvolvimento de Sistemas.</p>
 <p>Metodologias para desenvolvimento de sistemas orientado a objetos e design eficiente de banco de dados.</p>
 <p>Desenvolvimento de arquitetura de dados permitindo a análise de dados direcionada.</p>
-</br>
+<br>
 
 <h4>Laravel 5, CakePhp, MySQL,Oracle, Ibm DB2, Linux, Git.</h4>
-</br>
+<br>
 
 <h4>Iveco Latin America - 2007 / 2015</h4>
 
 <p>Análise e Desenvolvimento de Sistemas, implantação de novas soluções tecnológicas para automatização de processos e redução de custos.</p>
 <p>Monitoramento e manutenção de servidores.</p>
 <p>Projeto e implementação de novos padrões de servidores para serviços empresariais.</p>
-</br>
+<br>
 
 <h4>Linux, Java, PHP, JavaScript, Oracle.</h4>
-</br>
+<br>
 
 <h2>Ultimos Projetos</h2>
 
