@@ -52,19 +52,4 @@ Experiência em desenvolvimento de aplicações desktops Java.</p>
 <h4>Linux, Java, PHP, JavaScript, Oracle.</h4>
 <br>
 
-<h2>Ultimos Projetos</h2>
-
-<ul class="skill-list">
-    <li>
-	    <a href="http://g1.globo.com/minas-gerais/videos/t/mgtv-1-edicao/v/novo-sistema-para-prova-de-legislacao-do-detran-mg-comeca-a-funcionar-nesta-segunda/5316112/">Sistema de Projeto de Legislação de Trânsito - DETRAN / MG</a>
-	</li>
-	<li>
-        <a href="">Portal Frotistas Detran / MG</a>
-    </li>
-	<li>
-	    <a href="https://www.detran.mg.gov.br/">Portal Detran / MG <i>(manutenção)</i></a>
-	</li>
-	<li>
-	    <a href="">...</a>
-	</li>
-</ul>
+<h2>Inglês Técnico</h2>
