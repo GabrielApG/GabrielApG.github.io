@@ -24,18 +24,44 @@ Experiência em desenvolvimento de aplicações desktops Java.</p>
 	<li>TDD e Integração continua</li>
 </ul>
 
-<h2>Projetos</h2>
+<h2>Experiência</h2>
+
+<h4>Prodemge - Full Stack Web Developer - 2015 / atual</h4>
+
+<p>Desenvolvedor de sistemas web para otimização modificação e integração entre plataformas *(alta e baixa)*.</p>
+<p>Comunicação entre sistemas de terceiros.</p>
+<p>Integração e comunicação entre Brokers e plataforma Web.</p>
+<p>Desenvolvimento contínuo de correções, novas funcionalidades para aplicações web existentes e sistemas legados.</p>
+<p>Diagnóstico e solução de problemas de processamento e soluções para aumentar a eficiência.</p>
+<p>Padrões recomendados de segurança para desenvolvimento de Sistemas.</p>
+<p>Metodologias para desenvolvimento de sistemas orientado a objetos e design eficiente de banco de dados.</p>
+<p>Desenvolvimento de arquitetura de dados permitindo a análise de dados direcionada.</p>
+</br>
+
+<h4>Laravel 5, CakePhp, MySQL,Oracle, Ibm DB2, Linux, Git.</h4>
+</br>
+
+<h4>Iveco Latin America - 2007 / 2015</h4>
+
+<p>Análise e Desenvolvimento de Sistemas, implantação de novas soluções tecnológicas para automatização de processos e redução de custos.</p>
+<p>Monitoramento e manutenção de servidores.</p>
+<p>Projeto e implementação de novos padrões de servidores para serviços empresariais.</p>
+</br>
+
+<h4>Linux, Java, PHP, JavaScript, Oracle.</h4>
+</br>
+
+<h2>Ultimos Projetos</h2>
 
 <ul class="skill-list">
-    <p>ultimos</p>
-	<li>
+    <li>
 	    <a href="http://g1.globo.com/minas-gerais/videos/t/mgtv-1-edicao/v/novo-sistema-para-prova-de-legislacao-do-detran-mg-comeca-a-funcionar-nesta-segunda/5316112/">Sistema de Projeto de Legislação de Trânsito - DETRAN / MG</a>
 	</li>
 	<li>
-	    <a href="https://www.detran.mg.gov.br/">Portal Detran / MG</a>
-	</li>
+        <a href="">Portal Frotistas Detran / MG</a>
+    </li>
 	<li>
-	    <a href="">Portal Frotistas Detran / MG</a>
+	    <a href="https://www.detran.mg.gov.br/">Portal Detran / MG <i>(manutenção)</i></a>
 	</li>
 	<li>
 	    <a href="">...</a>
