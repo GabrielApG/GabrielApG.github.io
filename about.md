@@ -4,43 +4,40 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Desenvolvedor Web atuando na área desde de 2012. 
+Experiência em coleta e análise de requisitos. 
+Design e desenvolvimento de arquitetura, componentes e interfaces para aplicações baseadas na web. 
+Experiência em desenvolvimento de aplicações desktops Java.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-<h2>Skills</h2>
+<h2>Experiência</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
+    <li>Boa Lógica de Programação</li>
+	<li>PHP (Laravel 5, Symfony 2, CakePhp )</li>
+	<li>JavaScript</li>
 	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
+	<li>Postgres, Mysql, Oracle Sql, Ibm DB2</li>
+	<li>Design de Banco de Dados</li>
+	<li>Linux (Ubunut, Amazon Linux, Digital Ocean)</li>
+	<li>Git (GitFlow)</li>
 	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>TDD e Integração continua</li>
 </ul>
 
-<h2>Projects</h2>
+<h2>Projetos</h2>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+<ul class="skill-list">
+    <p>ultimos</p>
+	<li>
+	    <a href="http://g1.globo.com/minas-gerais/videos/t/mgtv-1-edicao/v/novo-sistema-para-prova-de-legislacao-do-detran-mg-comeca-a-funcionar-nesta-segunda/5316112/">Sistema de Projeto de Legislação de Trânsito - DETRAN / MG</a>
+	</li>
+	<li>
+	    <a href="https://www.detran.mg.gov.br/">Portal Detran / MG</a>
+	</li>
+	<li>
+	    <a href="">Portal Frotistas Detran / MG</a>
+	</li>
+	<li>
+	    <a href="">...</a>
+	</li>
+</u
