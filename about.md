@@ -9,7 +9,7 @@ Experiência em coleta e análise de requisitos.
 Design e desenvolvimento de arquitetura, componentes e interfaces para aplicações baseadas na web. 
 Experiência em desenvolvimento de aplicações desktops Java.</p>
 
-<h2>Experiência</h2>
+<h2>Habilidades</h2>
 
 <ul class="skill-list">
     <li>Boa Lógica de Programação</li>
