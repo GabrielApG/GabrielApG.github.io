@@ -40,4 +40,4 @@ Experiência em desenvolvimento de aplicações desktops Java.</p>
 	<li>
 	    <a href="">...</a>
 	</li>
-</u
+</ul>
