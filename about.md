@@ -30,7 +30,7 @@ Experiência em desenvolvimento de aplicações desktops Java.</p>
 
 <h4>Prodemge - Full Stack Web Developer - 2015 / atual</h4>
 
-<p>Desenvolvedor de sistemas web para otimização modificação e integração entre plataformas *(alta e baixa)*.</p>
+<p>Desenvolvedor de sistemas web para otimização modificação e integração entre plataformas (alta e baixa).</p>
 <p>Comunicação entre sistemas de terceiros.</p>
 <p>Integração e comunicação entre Brokers e plataforma Web.</p>
 <p>Desenvolvimento contínuo de correções, novas funcionalidades para aplicações web existentes e sistemas legados.</p>
@@ -50,9 +50,10 @@ Experiência em desenvolvimento de aplicações desktops Java.</p>
 <p>Análise e Desenvolvimento de Sistemas, implantação de novas soluções tecnológicas para automatização de processos e redução de custos.</p>
 <p>Monitoramento e manutenção de servidores.</p>
 <p>Projeto e implementação de novos padrões de servidores para serviços empresariais.</p>
+<p>Ambiente Ágil</p>
 <br>
 
-<h4>Linux, Java, PHP, JavaScript, Oracle.</h4>
+<h4>PHP, CakePHP, Laravel, Linux, Java, JavaScript, Oracle.</h4>
 <br>
 
 <h2>Inglês Técnico</h2>
