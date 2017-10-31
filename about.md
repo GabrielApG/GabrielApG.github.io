@@ -12,15 +12,16 @@ Experiência em desenvolvimento de aplicações desktops Java.</p>
 <h2>Habilidades</h2>
 
 <ul class="skill-list">
-    <li>Boa Lógica de Programação</li>
+  <li>Boa Lógica de Programação</li>
 	<li>PHP (Laravel 5, Symfony 2, CakePhp )</li>
+	<li>SOLID, Código Limpo, Design Patterns</li>
 	<li>Java (JavaSE, Swing)</li>
 	<li>JavaScript</li>
 	<li>Css Frameworks (Bootstrap, Foundation)</li>
 	<li>Postgres, Mysql, Oracle Sql, Ibm DB2</li>
 	<li>Design de Banco de Dados</li>
-	<li>Linux (Ubunut, Amazon Linux, Digital Ocean)</li>
-	<li>Git (GitFlow)</li>
+	<li>Linux (Ubuntu, Amazon Linux, Digital Ocean)</li>
+	<li>Git (GitFlow), Jenkins</li>
 	<li>Scrum and Kanban</li>
 	<li>TDD e Integração continua</li>
 </ul>
@@ -37,6 +38,8 @@ Experiência em desenvolvimento de aplicações desktops Java.</p>
 <p>Padrões recomendados de segurança para desenvolvimento de Sistemas.</p>
 <p>Metodologias para desenvolvimento de sistemas orientado a objetos e design eficiente de banco de dados.</p>
 <p>Desenvolvimento de arquitetura de dados permitindo a análise de dados direcionada.</p>
+<p>Testes unitários e implantação continua.</p>
+<p>Ambiente Ágil</p>
 <br>
 
 <h4>Laravel 5, CakePhp, MySQL,Oracle, Ibm DB2, Linux, Git.</h4>
